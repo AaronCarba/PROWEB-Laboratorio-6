@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aaron Carbajal</title>
+</head>
+<body>
+    <h1>Archivo para modificar de Aarón Carbajal Avalos</h1>
+    <h2>Los compañeros podrán hacer sus cambios a continuación</h2>
+    <p><br><br>Colaborador:</p> <!--Nombre de colaborador-->
+    <p>--Texto de ejemplo--</p>
+    <img src=""> <!--Imagen opcional-->
+    <p><br><br>Colaborador:</p> <!--Nombre de colaborador-->
+    <p>--Texto de ejemplo--</p>
+    <img src=""> <!--Imagen opcional-->
+</body>
+</html>
